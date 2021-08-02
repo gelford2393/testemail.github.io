@@ -9,11 +9,9 @@ html {
   -o-background-size: cover;
   background-size: cover;;
   background-position: center;
-
 }
 
 h1 {
-  font-size: 3rem;
   color: #e2dbdb;
 }
 .btn {
@@ -21,7 +19,7 @@ h1 {
   border-radius: 300px;
   background-color: #f05f44;
   border-color: #f05f44;
-  padding: 1rem 3rem;
+  padding: 1rem 2rem;
   font-weight: 700;
 }
 .btn:hover {
